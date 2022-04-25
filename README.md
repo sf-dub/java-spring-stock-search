@@ -1,5 +1,5 @@
 # java-spring-stock-search
-Java spring boot app which accepts stock tickers and returns the companies overview
+Java spring boot app which accepts stock tickers and returns the company's overview
 
 This project is for personal and educational use it should not be used in production / client facing without more security
 
